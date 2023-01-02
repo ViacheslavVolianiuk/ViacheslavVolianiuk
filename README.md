@@ -22,13 +22,7 @@ Constantly engaged in self-education, I've been working on multiple web developm
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50px" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SCSS" width="50px" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="50px" />&nbsp;
-
-<!-- <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/query13.svg" alt="React-Query" width="50px" />&nbsp; -->
-
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50px" />&nbsp;
-
-<!-- <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/Cypress.svg" alt="Cypress" width="50px" />&nbsp; -->
-
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50px" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50px" />&nbsp;
