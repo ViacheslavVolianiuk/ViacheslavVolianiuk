@@ -1,11 +1,11 @@
-![Logo](https://user-images.githubusercontent.com/87828904/210168151-ff080cf5-5cd1-49ea-a049-579d09aa5b82.png)
+<!--![Logo](https://user-images.githubusercontent.com/87828904/210168151-ff080cf5-5cd1-49ea-a049-579d09aa5b82.png)-->
 
 <h1 align="center">Hi, I'm Viacheslav Volianiuk👋</h1>
 <!--<h3 align="center">I’m a Front-End Developer 💻</h3>-->
 
-<p align="center">
+<!--<p align="center">
 Constantly engaged in self-education, I've been working on multiple web development projects for the last 2 years. The engineering background have allowed me to excel at programming quickly. As a perpetual learner and productivity enthusiast, I am always looking for ways to improve.
-</p>
+</p>-->
 
 <br />
 
