@@ -9,28 +9,13 @@ Constantly engaged in self-education, I've been working on multiple web developm
 
 <br />
 
-<h2 align="center">MY ECOSYSTEM ❄</h2>
-
-<div align="center">
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Nextjs" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SCSS" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="50px" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="50px" />&nbsp;
-
+ <div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavVolianiuk&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+
+<h2 align="center">MY ECOSYSTEM ❄</h2>
 
 <br />
 <br />
