@@ -9,17 +9,6 @@ Constantly engaged in self-education, I've been working on multiple web developm
 
 <br />
 
- <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavVolianiuk&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-
-<h2 align="center">MY ECOSYSTEM ❄</h2>
-
-<br />
-<br />
-
 <h2 align="center">CONNECT WITH ME 💬</h2>
 <div align="center">
     <a  href="https://www.linkedin.com/in/viacheslav-volianiuk/" target="_blank">
